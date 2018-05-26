@@ -1,3 +1,3 @@
-## Apache Spark - Este é um projeto de aprendizado onde foi visto comandos básicos de Apache Spark.##
+## Apache Spark - Este é um projeto de aprendizado onde foram vistos comandos básicos de Apache Spark.##
 
 
