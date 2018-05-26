@@ -1,3 +1,3 @@
-# Apache_Spark_Anotacoes
+## Apache_Spark_Anotacoes ##
 
-Este é um projeto para futuras consultas a seus comentários.
+Este é um projeto de aprendizado onde foi visto comandos básicos de Apache Spark.
